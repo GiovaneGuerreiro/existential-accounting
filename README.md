@@ -1,7 +1,7 @@
 # Existential Accounting
 This is just an idea, not a manifesto. Feel free to use it as you wish.
 
-"The existence precedes the essence" (Sartre)
+"The existence precedes the essence" - Sartre
 
 Cash and cash equivalents are the only things that exist. Goods and other assets may exist in the real world, but they're not measurable, therefore, I reject their subjective value.
 
