@@ -5,7 +5,7 @@ This is just an idea, not a manifesto. Feel free to use it as you wish.
 
 Cash and cash equivalents are the only things that exist. Goods and other assets may exist in the real world, but they're not measurable, therefore, I reject their subjective value.
 
-*Anarcho Bookkeeping*: There is no hierarchy, the accounts just exist.
+**Anarcho Bookkeeping**: There is no hierarchy, the accounts just exist.
 
 The bookkeeping is a graph, the accounts are nodes and the records/transactions are directed edges (origin is credit and destination is debit).
 
@@ -21,4 +21,6 @@ When you pay it:
 
 `cash -> supplier xpto invoice xxxxxxx, {value: 2264.91, date: "2026-01-10", description: "done"}`
 
-*The Non-Accrual Basis*: Since we don't consider payables and receivables until they're paid or received (which renders them useless for bookkeeping purpose after that), we don't accrue them. This is an honest acceptance of the human incompetence to predict the unpredictable future or to estimate the subjective value of the material world. In Portuguese, we can call it "Regime de Incompetência"
+**The Non-Accrual Basis**: It is an agnostic approach. Since we don't consider payables and receivables until they're paid or received (which renders them useless for bookkeeping purpose after that), we don't accrue them. This is an honest acceptance of the human incompetence to predict the unpredictable future or to estimate the subjective value of the material world. In Portuguese, we can call it "Regime de Incompetência".
+
+**Results**: The results are simply the sum of the account values compared to the previous period, influenced only by income, expenses, receivables received and payables paid. There is no fictitious profit or loss.
